@@ -1,0 +1,3 @@
+万能法:
+netsh int ip reset
+netsh winsock reset
